@@ -1,0 +1,7 @@
+Quy về bài toán cơ bản
+Vì vậy, bài toán của chúng ta được quy về như sau:
+
+Cho một đồ thị có hướng. Hãy kiểm tra xem đồ thị có chứa chu trình hay không?
+
+Nếu đồ thị CÓ chu trình -> Haddock bị bế tắc -> KHÔNG THỂ uống hết -> In ra "NO".
+Nếu đồ thị KHÔNG có chu trình (tức là một đồ thị có hướng không chu trình - DAG) -> Luôn tồn tại ít nhất một thứ tự để uống hết -> CÓ THỂ uống hết -> In ra "YES".
